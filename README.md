@@ -11,3 +11,9 @@ Pigmented benign keratosis
 Seborrheic keratosis
 Squamous cell carcinoma
 Vascular lesion
+
+
+
+Language: Python
+Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Keras, Tensorflow
+IDE: Google Colaboratory, Google Drive
