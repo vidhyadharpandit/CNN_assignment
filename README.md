@@ -13,6 +13,7 @@ Squamous cell carcinoma
 Vascular lesion
 
 
+Technologies Used
 
 Language: Python
 Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Keras, Tensorflow
